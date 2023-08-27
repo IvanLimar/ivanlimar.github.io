@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Заглавная страница"
+    url: /
+  - title: "Студентам"
+    url: /for-students
+
+# slidebar
+docs:
+  - title: "Заглавная страница"
+    url: /
+  - title: "Студентам"
+    url: /for-students
