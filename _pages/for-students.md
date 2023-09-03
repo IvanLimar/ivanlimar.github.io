@@ -33,28 +33,31 @@ sidebar:
 ## Математическая статистика. КТ
 
 - [информация о курсе](https://docs.google.com/document/d/1VtV-ikveLxyh32C2AYrXTrXvIrjpDM_DEGVx1lZ_nl8/edit?usp=sharing)
-- таблица с результатам
+- таблица с результатам ([группы 8,9](https://docs.google.com/spreadsheets/d/1rZdUzc_I1fQCSM8iqWoSR-5ufQnkxCR3f-qUNPFhJLE/edit?usp=sharing))
 - запись на защиту
 - вопросы к экзамену
 
 ## Теория вероятностей и математическая статистика. Фотоника
 
 - [информация о курсе](https://docs.google.com/document/d/16qAYsDs02wBYC7Am_Wt3YrmO3MAi5WuSFAG4klwbtEo/edit?usp=sharing)
-- таблица с результатам (моя группа), общая
-- запись на рассказ задачи, оппонирование, защиту (моя группа)
+- таблица с результатам ([второй курс](https://docs.google.com/spreadsheets/d/14YBJkrceH6pVX0eZPlhi_KmJc0ES0hqCrKpqvFpPJtE/edit?usp=sharing), общая)
+- запись защиту (второй курс)
 - вопросы к зачёту
 
 ## Теория вероятностей. ИКТ
 
+Поток ТЕОР ВЕР Б 1
+
 - [информация о курсе](https://docs.google.com/document/d/1CIbgs3guITKO0juQoqt0was1a3mVVxrEjVnS4fSeMD4/edit?usp=sharing)
-- таблица с результатами (моя группа), общая
-- запись на рассказ задачи, оппонирование, защиту (моя группа)
-- вопросы к экзамену
+- таблица с результатами ([подпоток 1](https://docs.google.com/spreadsheets/d/1BvPWcr5LAvL3vBgCfTOPGbeF0kjxSclKltE-8bEnfl0/edit?usp=sharing), [подпоток 5](https://docs.google.com/spreadsheets/d/1dVICVATCPmIgzy0U5kzZeF4E9bNRkr3472dbxgXicnI/edit?usp=sharing), общая)
+- запись защиту
 
 ## Математический анализ
 
-- информация о занятиях
-- таблица с результатами
+Поток МАТ АН ПИИКТ 11.5
+
+- [информация о занятиях](https://docs.google.com/document/d/14Tyv5aECL9qSMFemGQx-hSsFcyGElPya2Jfn_9l2LCY/edit?usp=sharing)
+- [таблица с результатами](https://docs.google.com/spreadsheets/d/12FdipPkDfx79MXfmJSUmE0G8ihN9LfXJGSFBPMe8jAk/edit?usp=sharing)
 
 # Научно-исследовательская работа
 
