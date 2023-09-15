@@ -50,14 +50,19 @@ sidebar:
 
 - [информация о курсе](https://docs.google.com/document/d/1CIbgs3guITKO0juQoqt0was1a3mVVxrEjVnS4fSeMD4/edit?usp=sharing)
 - таблица с результатами ([подпоток 1](https://docs.google.com/spreadsheets/d/1BvPWcr5LAvL3vBgCfTOPGbeF0kjxSclKltE-8bEnfl0/edit?usp=sharing), [подпоток 5](https://docs.google.com/spreadsheets/d/1dVICVATCPmIgzy0U5kzZeF4E9bNRkr3472dbxgXicnI/edit?usp=sharing), общая)
-- запись защиту
+- запись на защиту
 
-## Математический анализ
+## Теория вероятностей. БИТ
 
-Поток МАТ АН ПИИКТ 11.5
+Группа N3245
 
-- [информация о занятиях](https://docs.google.com/document/d/14Tyv5aECL9qSMFemGQx-hSsFcyGElPya2Jfn_9l2LCY/edit?usp=sharing)
-- [таблица с результатами](https://docs.google.com/spreadsheets/d/12FdipPkDfx79MXfmJSUmE0G8ihN9LfXJGSFBPMe8jAk/edit?usp=sharing)
+- [информация о занятиях](https://docs.google.com/document/d/1RrxPI-L_uaHg41WII1FqljhwqfgeQmYIyxvE5fW7T3Y/edit?usp=sharing)
+- [таблица с результатами](https://docs.google.com/spreadsheets/d/1RPWKsLJ5otMI6B3OlLLfRq6-pF-vtPFAlCfqpSYfFB4/edit?usp=sharing)
+- запись на защиту
+
+## Случайные процессы. Семинар
+
+Вводное занятие состоится 21.09, в 17:00
 
 # Другие проекты
 
