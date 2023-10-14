@@ -33,9 +33,10 @@ sidebar:
 ## Математическая статистика. КТ
 
 - [информация о курсе](https://docs.google.com/document/d/1VtV-ikveLxyh32C2AYrXTrXvIrjpDM_DEGVx1lZ_nl8/edit?usp=sharing)
-- таблица с результатам ([группы 8,9](https://docs.google.com/spreadsheets/d/1rZdUzc_I1fQCSM8iqWoSR-5ufQnkxCR3f-qUNPFhJLE/edit?usp=sharing))
-- запись на защиту
+- таблица с результатам ([группы 8, 9, R](https://docs.google.com/spreadsheets/d/1rZdUzc_I1fQCSM8iqWoSR-5ufQnkxCR3f-qUNPFhJLE/edit?usp=sharing))
+- запись на защиту ([группы 8, 9, R](https://docs.google.com/spreadsheets/d/15reqmn8_3u-Oa87AQiPrCmepbWaPtPxINXVvJQYAEp4/edit?usp=sharing))
 - вопросы к экзамену
+- консультации после занятий (предварительно предупреждать)
 
 ## Теория вероятностей и математическая статистика. Фотоника
 
@@ -43,6 +44,7 @@ sidebar:
 - таблица с результатам ([второй курс](https://docs.google.com/spreadsheets/d/14YBJkrceH6pVX0eZPlhi_KmJc0ES0hqCrKpqvFpPJtE/edit?usp=sharing), общая)
 - запись защиту (второй курс)
 - вопросы к зачёту
+- консультации после занятий (предварительно предупреждать)
 
 ## Теория вероятностей. ИКТ
 
@@ -51,6 +53,7 @@ sidebar:
 - [информация о курсе](https://docs.google.com/document/d/1CIbgs3guITKO0juQoqt0was1a3mVVxrEjVnS4fSeMD4/edit?usp=sharing)
 - таблица с результатами ([подпоток 1](https://docs.google.com/spreadsheets/d/1BvPWcr5LAvL3vBgCfTOPGbeF0kjxSclKltE-8bEnfl0/edit?usp=sharing), [подпоток 5](https://docs.google.com/spreadsheets/d/1dVICVATCPmIgzy0U5kzZeF4E9bNRkr3472dbxgXicnI/edit?usp=sharing), общая)
 - запись на защиту
+- консультации по четвергам после 13:10 (предварительно предупреждать)
 
 ## Теория вероятностей. БИТ
 
@@ -58,11 +61,11 @@ sidebar:
 
 - [информация о занятиях](https://docs.google.com/document/d/1RrxPI-L_uaHg41WII1FqljhwqfgeQmYIyxvE5fW7T3Y/edit?usp=sharing)
 - [таблица с результатами](https://docs.google.com/spreadsheets/d/1RPWKsLJ5otMI6B3OlLLfRq6-pF-vtPFAlCfqpSYfFB4/edit?usp=sharing)
-- запись на защиту
+- консультации после занятий [запись](https://docs.google.com/spreadsheets/d/1CIX1ZMzwuPPkRLrte4oN6NLNjaxtDZbgoT20h8LqeQY/edit?usp=sharing)
 
 ## Случайные процессы. Семинар
 
-Вводное занятие состоится 21.09, в 17:00
+Желающие могут связаться со мной, чтобы добавил в соответствующую группу.
 
 # Другие проекты
 
