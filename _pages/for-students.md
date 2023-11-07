@@ -42,7 +42,7 @@ sidebar:
 
 - [информация о курсе](https://docs.google.com/document/d/16qAYsDs02wBYC7Am_Wt3YrmO3MAi5WuSFAG4klwbtEo/edit?usp=sharing)
 - таблица с результатам ([второй курс](https://docs.google.com/spreadsheets/d/14YBJkrceH6pVX0eZPlhi_KmJc0ES0hqCrKpqvFpPJtE/edit?usp=sharing), общая)
-- запись защиту (второй курс)
+- запись защиту ([второй курс](https://docs.google.com/spreadsheets/d/1aE9eWK7ebsc8nUILEhyjN9eGO7zNwivTkiaWrDDOeKc/edit?usp=sharing))
 - вопросы к зачёту
 - консультации после занятий (предварительно предупреждать)
 
@@ -52,8 +52,8 @@ sidebar:
 
 - [информация о курсе](https://docs.google.com/document/d/1CIbgs3guITKO0juQoqt0was1a3mVVxrEjVnS4fSeMD4/edit?usp=sharing)
 - таблица с результатами ([подпоток 1](https://docs.google.com/spreadsheets/d/1BvPWcr5LAvL3vBgCfTOPGbeF0kjxSclKltE-8bEnfl0/edit?usp=sharing), [подпоток 5](https://docs.google.com/spreadsheets/d/1dVICVATCPmIgzy0U5kzZeF4E9bNRkr3472dbxgXicnI/edit?usp=sharing), общая)
-- запись на защиту
-- консультации по четвергам после 13:10 (предварительно предупреждать)
+- [запись на защиту](https://docs.google.com/spreadsheets/d/1dA4lhi8lQAk2TPP3CwUhR4Hzpl4gUg4wM5BVnKbHBoE/edit?usp=sharing)
+- консультации по четвергам после 13:10 или около 7:50 (предварительно предупреждать)
 
 ## Теория вероятностей. БИТ
 
