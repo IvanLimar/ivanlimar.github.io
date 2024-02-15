@@ -38,20 +38,20 @@ sidebar:
 
 ### Теория вероятностей. КТ. Группы 36-39
 
- - информация о курсе
- - таблица с результатами
+ - [информация о курсе](https://docs.google.com/document/d/13VgzUzEShsmiJFEd8sO46PbMGhF6lqhADbG4Ow3gCpY/edit?usp=sharing)
+ - таблица с результатами ([группы 8, 9](https://docs.google.com/spreadsheets/d/16irriWtxOMYCBhequnYzsmZHFEYKuXHO_NV4AggvP3g/edit?usp=sharing))
  - вопросы к экзамену
 
 ### Теория вероятностей. Роботы. Углубленный
 
- - информация о курсе
- - таблица с результатами
+ - [информация о курсе](https://docs.google.com/document/d/1iebnKtMGP3lp_Oz_uAOMH9bVnKkiWa2VYB4fSA5TZKA/edit?usp=sharing)
+ - [таблица с результатами](https://docs.google.com/spreadsheets/d/17nujG7XDAPOMuuCInLnQS0WZ1p-9XciYIWHhVAB7OgE/edit?usp=sharing)
  - вопросы к экзамену
 
 ### Математическая статистика. ИКТ. Поток 21
 
- - информация о курсе
- - таблица с результатами
+ - [информация о курсе](https://docs.google.com/document/d/12rdkRhKfwGqzXV8dqowvvG66JxdZ_3fFzc9HieKwiZU/edit?usp=sharing)
+ - таблица с результатами([подпоток 1](https://docs.google.com/spreadsheets/d/1cahlPhnPiJ_EdE-zS65n26FSR5PNmB5r2-_xIPRG2qM/edit?usp=sharing))
  - вопросы к экзамену
 
 # Другие проекты
