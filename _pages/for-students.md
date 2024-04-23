@@ -42,6 +42,7 @@ sidebar:
  - таблица с результатами ([группы 6, 7](https://docs.google.com/spreadsheets/d/1-D0T7S0xyNrU6eW9r3f-veZ0UcvUyn9df24SipuF1jY/edit#gid=1127353361), [группы 8, 9](https://docs.google.com/spreadsheets/d/16irriWtxOMYCBhequnYzsmZHFEYKuXHO_NV4AggvP3g/edit?usp=sharing))
  - условия лабораторных работ:
    - [первая](https://drive.google.com/file/d/1Op45jxUeXkvQASt8WiFPpKk9iZohWvJC/view?usp=sharing)
+   - [вторая](https://drive.google.com/file/d/1oSBxWOKym36p60huNhiccN9X1CrLS78M/view)
  - вопросы к экзамену
 
 ### Теория вероятностей. Роботы. Углубленный
@@ -50,6 +51,7 @@ sidebar:
  - [таблица с результатами](https://docs.google.com/spreadsheets/d/17nujG7XDAPOMuuCInLnQS0WZ1p-9XciYIWHhVAB7OgE/edit?usp=sharing)
  - условия лабораторных работ:
    - [первая](https://drive.google.com/file/d/1Op45jxUeXkvQASt8WiFPpKk9iZohWvJC/view?usp=sharing)
+   - [вторая](https://drive.google.com/file/d/1oSBxWOKym36p60huNhiccN9X1CrLS78M/view)
  - вопросы к экзамену
 
 ### Математическая статистика. ИКТ. Поток 21
@@ -58,6 +60,8 @@ sidebar:
  - таблица с результатами ([подпоток 1](https://docs.google.com/spreadsheets/d/1cahlPhnPiJ_EdE-zS65n26FSR5PNmB5r2-_xIPRG2qM/edit?usp=sharing))
  - условия лабораторных работ (подпоток 21.1):
    - [первая](https://drive.google.com/file/d/18uZNKtKVdC0utOKJdo404iu8b2746hV2/view?usp=sharing)
+   - [вторая](https://drive.google.com/file/d/1D4DnJ7i5PIjCuKsZZw7XaX4yYI_H69Wg/view)
+   - [третья](https://drive.google.com/file/d/1Rw5zO-i6Np3j9rC3nuhi-SemX2PYau_P/view)
  - вопросы к экзамену
 
 # Другие проекты
