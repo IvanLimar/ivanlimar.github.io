@@ -43,7 +43,7 @@ sidebar:
  - условия лабораторных работ:
    - [первая](https://drive.google.com/file/d/1Op45jxUeXkvQASt8WiFPpKk9iZohWvJC/view?usp=sharing)
    - [вторая](https://drive.google.com/file/d/1oSBxWOKym36p60huNhiccN9X1CrLS78M/view)
- - вопросы к экзамену
+ - [вопросы к экзамену](https://drive.google.com/file/d/1bLWRbjNX-9MYrOM1sKXLLG3EJGQgZnnV/view)
 
 ### Теория вероятностей. Роботы. Углубленный
 
@@ -52,7 +52,7 @@ sidebar:
  - условия лабораторных работ:
    - [первая](https://drive.google.com/file/d/1Op45jxUeXkvQASt8WiFPpKk9iZohWvJC/view?usp=sharing)
    - [вторая](https://drive.google.com/file/d/1oSBxWOKym36p60huNhiccN9X1CrLS78M/view)
- - вопросы к экзамену
+ - [вопросы к экзамену](https://drive.google.com/file/d/18KsJ4sYE9bDrtl6REQOL6r2N1o6DJxp_/view)
 
 ### Математическая статистика. ИКТ. Поток 21
 
@@ -62,7 +62,8 @@ sidebar:
    - [первая](https://drive.google.com/file/d/18uZNKtKVdC0utOKJdo404iu8b2746hV2/view?usp=sharing)
    - [вторая](https://drive.google.com/file/d/1D4DnJ7i5PIjCuKsZZw7XaX4yYI_H69Wg/view)
    - [третья](https://drive.google.com/file/d/1Rw5zO-i6Np3j9rC3nuhi-SemX2PYau_P/view)
- - вопросы к экзамену
+   - [четвёртая](https://drive.google.com/file/d/1RH4HoSpELz9uou_-RPASc2uyBtJxGoC3/view)
+ - [вопросы к экзамену](https://drive.google.com/file/d/12lCeHRr-krE9r9ty1hTrqPj3ztwdWaZ_/view)
 
 # Другие проекты
 
