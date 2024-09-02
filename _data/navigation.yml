@@ -11,3 +11,10 @@ docs:
     url: /
   - title: "Студентам"
     url: /for-students
+    children:
+      - title: "Jupyter Notebook"
+        url: /for-students/jupyter-notebook
+      - title: "LaTeX"
+        url: /for-students/latex
+      - title: "Мат. Стат. КТ. Сем. 6"
+        url: /for-students/autumn2024/mathstatct
