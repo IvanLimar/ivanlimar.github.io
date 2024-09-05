@@ -16,5 +16,7 @@ docs:
         url: /for-students/jupyter-notebook
       - title: "LaTeX"
         url: /for-students/latex
-      - title: "Мат. Стат. КТ. Сем. 6"
+      - title: "Мат. Стат. КТ. Сем. 5"
         url: /for-students/autumn2024/mathstatct
+      - title: "Теор Вер 25. Сем. 3"
+        url: /for-students/autumn2024/probab25
