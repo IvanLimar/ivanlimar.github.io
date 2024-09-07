@@ -15,6 +15,7 @@ sidebar:
 # О курсе
 
 Здесь основная информация о курсе. Также можно посмотреть [syllabus](https://docs.google.com/document/d/13EWXlt9c2TecIMizRlkWfpqczZg6uoRp4ANB7RVOrqA/edit?usp=sharing).
+Материалы выкладываю на отдельной [страничке](/for-students/autumn2024/mathstatct/materials)
 
 ## Аннотация
 
@@ -77,21 +78,8 @@ $$Exam$$ -- оценка за экзамен (до 20).
 - Gelman. Carlin. Stern. Dunson. Vehtari. Rubin. Bayesian Data Analysis
 - [Хороший материал по ошибкам применения статистических методов](https://web.ma.utexas.edu/users/mks/statmistakes/StatisticsMistakes.html)
 
-# Материалы
-
-Здесь буду выкладывать материалы по курсу
-
-- [Презентация про инструменты для статистического анализа](https://drive.google.com/file/d/1ryCMavfdJkc7CWXqtAwKAJi3Zn2_93pr/view?usp=sharing),
-[листинг](https://colab.research.google.com/drive/1kwEuPR6joNaxJtoHIzjkqHTL4tnujGpl?usp=sharing)
-
-## Таблицы с результатами
+# Таблицы с результатами
 
  - группы 36, 37
  - [группы 38, 39](https://docs.google.com/spreadsheets/d/1hKhZKA2OnQff5xmhlI13lNWxUA3WiQDVgAuEWVQ3-J8/)
  - общая
-
-## Лабораторные работы
-
-## Задачи с практик
-
-## Экзамен
