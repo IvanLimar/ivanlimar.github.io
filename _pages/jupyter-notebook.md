@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 toc: true
 toc_sticky: true
-permalink: /for-students/jupyter-notebook
+permalink: /for-students/jupyter-notebook/
 sidebar:
   nav: "docs"
 ---

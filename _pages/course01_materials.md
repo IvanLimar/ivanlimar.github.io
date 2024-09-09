@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 toc: true
 toc_sticky: true
-permalink: /for-students/autumn2024/mathstatct/materials
+permalink: /for-students/autumn2024/mathstatct/materials/
 sidebar:
   nav: "docs"
 ---

@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 toc: true
 toc_sticky: true
-permalink: /for-students/latex
+permalink: /for-students/latex/
 sidebar:
   nav: "docs"
 ---
