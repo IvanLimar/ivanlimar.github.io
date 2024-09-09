@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Иван Лимар"
   avatar           : "/assets/images/my_ava.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Университет ИТМО, научно-образовательный центр математики"
+  bio              : "Университет ИТМО"
   location         : "Санкт-Петербург, Россия"
 # email            : "ivan.limar95@gmail.com"
   links:
