@@ -14,10 +14,9 @@ sidebar:
 
 # О курсе
 
-Здесь студенты лекционного потока "*Теор Вер 25*" и практического подпотока
-"*Теор Вер 25.1*" могут найти информацию и материалы по курсу теории вероятностей.
-Также можно посмотреть [syllabus](https://docs.google.com/document/d/1q1FrykJBltGLog1EpzoAO9T1CK5e0yf7Jstfi75pO6A/edit?usp=sharing).
-Материалы (прежде всего условия домашних и расчетно-графических работ) выкладываются на отдельной
+Здесь студенты лекционного потока "*Теор Вер 25*" и практических подпотоков
+"*Теор Вер 25.1*", "*Теор Вер 26.1*" могут найти информацию и материалы по курсу теории вероятностей.
+Также можно посмотреть [syllabus](https://docs.google.com/document/d/1q1FrykJBltGLog1EpzoAO9T1CK5e0yf7Jstfi75pO6A/edit?usp=sharing).. Материалы (прежде всего условия домашних и расчетно-графических работ) выкладываются на отдельной
 [страничке](/for-students/autumn2024/probab25/materials).
 
 ## Аннотация
@@ -35,7 +34,7 @@ sidebar:
 
 ## Таблицы с результатами
 
-- [поток 25.1](https://docs.google.com/spreadsheets/d/1nx04xEJQarko6AjTFItzmlm73sFACDEUtf60RRBUtMY/edit?usp=sharing)
+- [потоки 25.1, 26.1](https://docs.google.com/spreadsheets/d/1nx04xEJQarko6AjTFItzmlm73sFACDEUtf60RRBUtMY/edit?usp=sharing)
 - общая
 
 ## Оценивавшие
