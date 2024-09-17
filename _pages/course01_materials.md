@@ -21,6 +21,8 @@ sidebar:
 
 ## Лабораторные работы
 
+- [Первая](https://drive.google.com/file/d/1_iRnFlzB9Q1NUrcE2ntDIeKdnDP6LrmB/view)
+
 ## Задачи с практик
 
 ### Занятие 1
@@ -71,7 +73,7 @@ $$\mathrm{E}\ S_*^2$$ и $$\mathrm{Var}\ S_*^2$$.
 обладают найденные оценки?
 1. Shifted exponential
 2. $$\Gamma$$ (one parametr is unknown, both are unknown)
-3. $$\mathrm{Cauchy}(x_0, 1)$$
-4. $$\mathrm{Pareto}(x_0, \beta)$$
+3. Распределение Коши $$\mathrm{Cauchy}(x_0, 1)$$
+4. Распределение Парето $$\mathrm{Pareto}(x_0, \beta)$$
 
 ## Экзамен
