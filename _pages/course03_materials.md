@@ -16,6 +16,10 @@ sidebar:
 
 Здесь буду выкладывать материалы по курсу
 
+## Условия РГР
+
+- [Первая](https://drive.google.com/file/d/18uZNKtKVdC0utOKJdo404iu8b2746hV2/view?usp=sharing)
+
 ## Задачи с практик
 
 ### Занятия № 1-2

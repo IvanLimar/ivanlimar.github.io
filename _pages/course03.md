@@ -80,5 +80,4 @@ $$Pass$$ -- оценка за зачет (до 20).
 
 # Таблицы с результатами
 
- - [Мат Стат 31.2](https://docs.google.com/spreadsheets/d/193YZDtiEHWZnNUDFNY0ktAANi5vd3oeaaIUGJDA7xI4/edit?usp=sharing)
- - [Мат Стат 31.5](https://docs.google.com/spreadsheets/d/13ta79Bn1X62yQ5Ewni7-p0fuIzYWjOR3LXbBHJcpF2g/edit?usp=sharing)
+ - [Мат Стат 31.2 и 31.5](https://docs.google.com/spreadsheets/d/193YZDtiEHWZnNUDFNY0ktAANi5vd3oeaaIUGJDA7xI4/edit?usp=sharing)
