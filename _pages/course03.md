@@ -68,6 +68,7 @@ $$Pass$$ -- оценка за зачет (до 20).
 - Casella. Berger. Statistical Inference
 - Wackerly. Mathematical statistics with applications
 - Bickel. Doksum. Mathematical statistics
+- Hogg. introduction to Mathematical Statistics
 
 ### Дополнительно
 
