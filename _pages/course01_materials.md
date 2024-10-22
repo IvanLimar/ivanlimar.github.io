@@ -22,6 +22,8 @@ sidebar:
 ## Лабораторные работы
 
 - [Первая](https://drive.google.com/file/d/1_iRnFlzB9Q1NUrcE2ntDIeKdnDP6LrmB/view)
+- [Вторая](https://drive.google.com/file/d/1zcMYyRCZqVTYVOUGmB6ML_N4NKSKeorD/view)
+- [Третья](https://drive.google.com/file/d/1rb3BFrS5Qh0aVA-EEgjcnCBYOtec6NIN/view)
 
 ## Задачи с практик
 
