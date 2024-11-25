@@ -25,6 +25,7 @@ sidebar:
 - [Вторая](https://drive.google.com/file/d/1zcMYyRCZqVTYVOUGmB6ML_N4NKSKeorD/view)
 - [Третья](https://drive.google.com/file/d/1rb3BFrS5Qh0aVA-EEgjcnCBYOtec6NIN/view)
 - [Четвертая](https://drive.google.com/file/d/1HL7MjfKdD4doZ7Y_HSNj6oRTjWK8Kae1/view)
+- [Пятая](https://drive.google.com/file/d/1_5214T0DTD4dak6HBXOk-iffadil8Cce/view)
 
 ## Задачи с практик
 
