@@ -35,3 +35,5 @@ sidebar:
 - *A.A. Khartov*, *I.A. Limar*. Asymptotic analysis in multivariate worst case approximation with Gaussian kernels.
  *Journal of Complexity*. Vol. 82. June 2024. [DOI](https://doi.org/10.1016/j.jco.2024.101838)
     - Препринт: [ArXiv](https://arxiv.org/abs/2306.14239)
+- *И.А. Лимар*. Вероятностный подход к анализу информационной сложности одной многопараметрической задачи аппроксимации.
+*Записки научных семинаров ПОМИ*. Том 535. 2024. C. 150-172. [URL](http://ftp.pdmi.ras.ru/pub/publicat/znsl/v535/p150.pdf)
