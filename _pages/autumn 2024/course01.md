@@ -86,3 +86,7 @@ $$Exam$$ -- оценка за экзамен (до 20).
  - [группы 36, 37](https://docs.google.com/spreadsheets/d/1OKkgEfibnvNEqB1BkkB5zg3k4Fa4WcggghEEAOVO1d8/)
  - [группы 38, 39](https://docs.google.com/spreadsheets/d/1hKhZKA2OnQff5xmhlI13lNWxUA3WiQDVgAuEWVQ3-J8/)
  - общая
+
+# Экзамен
+
+[Список вопросов](https://drive.google.com/file/d/1r58G0p8_Qnx2mnQmmIMO5SgP71zTGXVq/view?usp=sharing)
