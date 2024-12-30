@@ -83,7 +83,7 @@ sidebar:
 
 Некоторые особенности набора текста:
  - Перед очередным новым абзацем должна быть пустая строка
- - Каждая новая глава/параграм/пункт начинается с соответствующей команды `\chapter{chapeterName}`,
+ - Каждая новая глава/параграф/пункт начинается с соответствующей команды `\chapter{chapeterName}`,
  `\section{sectionName}`, `\subsection{sectionName}`
  - Математические выражения внутри текста набираются внутри одинарных долларовых скобок `Text $formula$ text`
  - Выделенные выражения выделяются двойными долларовыми скобками `$$Complicated formula$$`. Иногда удобнее
@@ -99,6 +99,12 @@ sidebar:
     \item Second unordered enter
 \end{enumerate}
 ```
+
+## Примеры
+
+ - Отчет по учебной работе:
+     - [*tex*-исходник](/assets/files/report_template.tex)
+     - [скомпилированная *pdf*](/assets/files/report_template.pdf)
 
 ## Further reading
 

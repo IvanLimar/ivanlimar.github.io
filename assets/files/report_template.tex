@@ -1,0 +1,146 @@
+%Define document class and its settings
+\documentclass[12pt]{article}
+
+%Language and encoding settings
+\usepackage{cmap}
+\usepackage[T1,T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+
+%Additional math packages
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{dsfont}
+\usepackage{bm}
+\usepackage{diagbox}
+
+%Package for managing page size and margins
+\usepackage[left=20mm,right=10mm,top=20mm,bottom=20mm,bindingoffset=2mm]{geometry}
+
+%Indent first paragraph after section header
+\usepackage{indentfirst}
+
+%Improved interface for floating objects like figures, tables, etc.
+\usepackage{float}
+
+%Extensive support for hypertext. Here we set clickable link without any visible marks in the output document
+\usepackage[hidelinks]{hyperref}
+
+%Package for code chunks (it is sufficient for report but in order to have more beautiful code chunks you can use mints package)
+\usepackage{listings}
+
+%Additional math commands
+\DeclareMathOperator{\N}{\mathbb{N}}
+\DeclareMathOperator{\R}{\mathbb{R}}
+\DeclareMathOperator{\Z}{\mathbb{Z}}
+\DeclareMathOperator{\CC}{\mathbb{C}}
+\DeclareMathOperator{\PP}{\mathrm{P}}
+\DeclareMathOperator{\Expec}{\mathrm{E}}
+\DeclareMathOperator{\Var}{\mathrm{Var}}
+\DeclareMathOperator{\Cov}{\mathrm{Cov}}
+\DeclareMathOperator{\asConv}{\xrightarrow{a.s.}}
+\DeclareMathOperator{\LpConv}{\xrightarrow{Lp}}
+\DeclareMathOperator{\pConv}{\xrightarrow{p}}
+\DeclareMathOperator{\dConv}{\xrightarrow{d}}
+
+%Redefine default bibliography title
+\addto\captionsrussian{\renewcommand{\refname}{Список использованных источников}}
+
+\begin{document}
+
+%Customization of title page. Can easily modified for your own needs
+\begin{titlepage}
+    \begin{center}
+        \large{Федеральное государственное автономное образовательное учреждение высшего образования <<Национальный исследовательский университет ИТМО>>}
+    \end{center}
+    
+    \vspace{15em}
+    
+    \begin{center}
+        \huge{\textbf{Название работы}} \\
+        \large{По дисциплине <<название дисциплины в именительном падеже>>}
+    \end{center}
+    
+    \vspace{5em}
+    
+    \begin{flushright}
+        \Large{\textbf{Иванов Иван Иванович}} \\
+        \Large{номер академической группы} \\
+        \Large{идентификатор ИСУ}
+    \end{flushright}
+    
+    \vspace{15em}
+    
+    \begin{center}
+        Санкт-Петербург \\
+        20xx год
+    \end{center}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+%In order to have unnumbered sections but displayed in the table of contens
+\addcontentsline{toc}{section}{Задача №1}
+\section*{Задача №1}
+
+\textbf{Условие задачи.} Доказать теорему Пифагора и ей обратную.
+
+Пусть 
+$\Vert\cdot\Vert$ -- стандартная длина в $\R^n$, то есть квадратный корень из суммы квадратов координат вектора. Показать, что
+$x$ ортогонален $y$ (относительно стандартного скалярного произведения $\langle\cdot, \cdot\rangle$ в $\R^n$) тогда и только тогда,
+когда выполняется равенство
+\begin{gather}
+    \label{PythagoreanTheorem}
+    \Vert x - y \Vert^2 = \Vert x \Vert^2 + \Vert y \Vert^2
+\end{gather}
+
+\textbf{Решение:}
+
+Начнём с необходимости, то есть рассмотрим ортогональные друг другу $x, y \in \R^n$, то есть $\langle x, y \rangle = 0$. Рассмотрим
+$\Vert x - y \Vert^2$ и воспользуемся линейностью скалярного произведения:
+\begin{gather*}
+    \Vert x - y \Vert^2 = \langle x - y, x - y \rangle = \langle x, x \rangle - \langle x, y \rangle - \langle y, x \rangle + \langle y, y \rangle = \Vert x \Vert^2 + \Vert y \Vert^2,
+\end{gather*}
+то есть искомое равенство \eqref{PythagoreanTheorem} доказано.
+
+Покажем достаточность. Пусть выполнено соотношение \eqref{PythagoreanTheorem} и безотносительно этого остается верным первое равенство в цепочке выше, так
+как там мы воспользовались аксиомами скалярного произведения, то есть
+\begin{gather*}
+    \begin{cases}
+        \Vert x - y \Vert^2 = \Vert x \Vert^2 + \Vert y \Vert^2 - 2\langle x, y\rangle,\\
+        \Vert x - y \Vert^2 = \Vert x \Vert^2 + \Vert y \Vert^2.
+    \end{cases}
+\end{gather*}
+Если из первого равенства отнять второе, то мы мгновенно получим $\langle x, y\rangle = 0$, то есть достаточность доказана и тем самым исходная теорема.
+
+\addcontentsline{toc}{section}{Задача №2}
+\section*{Задача №2}
+
+\textbf{Условие задачи.} Написать скрипт на \textit{Python}, печатающую в консоль <<Hello World!>>
+
+%Here we have program, so we insert it's sources to the supplement
+
+\newpage
+
+\addcontentsline{toc}{section}{Приложения}
+\section*{Приложения}
+
+\subsection*{Задача №2}
+
+Текст программа, решающей поставленную задачу
+\begin{lstlisting}[language=Python, caption=Вывод в консоль фразы <<Hello World!>>,captionpos=b]
+    print(''Hello World!'')
+\end{lstlisting}
+
+Также можно здесь вставить ссылку на исходники. Примеры можно посмотреть, например, здесь \cite{OverleafHyperlinks}
+
+\newpage
+\addcontentsline{toc}{section}{Список использованных источников}
+\begin{thebibliography}{99}
+    \bibitem{OverleafHyperlinks}
+    Hyperlinks. \textit{URL}: \href{https://www.overleaf.com/learn/latex/Hyperlinks}{https://www.overleaf.com/learn/latex/Hyperlinks}
+\end{thebibliography}
+
+\end{document}

@@ -24,6 +24,8 @@ sidebar:
 и запуск производится через веб-интерфейс.
  - Если на вашем ПК есть [Python](https://python.org), то Jupyter Notebook можно установить через
 [pip](https://pypi.org/project/pip/). Запуск -- через консоль.
+    - **NB**: для каждой конкретной задачи стоит *устанавливать и настраивать свой Python*, чтобы
+    не сбились зависимости
  - Это далеко не все, можно устанавливать через другие менеджеры пакетов или дистрибутивы, например,
  [Conda](https://docs.conda.io/en/latest/) и [Anaconda](https://www.anaconda.com/) соответственно. Запуск --
 через консоль или GUI-интерфейс соответственно.
@@ -85,8 +87,13 @@ Some content
 - [NumPy](https://numpy.org/). Для численных вычислений, в частности, удобен для работы с векторами.
 - [SciPy](https://scipy.org/). Включает в себя численные алгоритмы из различных областей математики.
 - [Matplotlib](https://matplotlib.org/). Для рисования различных графиков.
+- [seaborn](https://seaborn.pydata.org/). Более гибкая библиотека для статистической визуализации.
 - [Pandas](https://pandas.pydata.org/). Для анализа и преобразования данных.
 - Несколько фрейморков для ML:
     - [scikit-learn](https://scikit-learn.org/stable/)
     - [TensorFlow](https://www.tensorflow.org/)
     - [Keras](https://keras.io/)
+
+## Пример
+
+[Тут](https://colab.research.google.com/drive/1kwEuPR6joNaxJtoHIzjkqHTL4tnujGpl?usp=sharing) можно посмотреть пример (будет модифицироваться со временем)
