@@ -21,7 +21,7 @@ sidebar:
 Оценка $$All = 4\cdot lab + 2 \cdot actv + theory$$, где $$lab \leqslant 15$$ -- оценка за расчётно-графическую работу, $$actv \leqslant 10$$ -- оценка за *активности* в классе, $$theory \leqslant 20$$ -- за экзамен
 ## Таблицы с результатами
 
- - [практические потоки](docs.google.com/spreadsheets/d/1wgZRE6u5bChct3neMxj7JCzxIrk_ucJvVcs5wZMGnuA/)
+ - [практические потоки](https://docs.google.com/spreadsheets/d/1wgZRE6u5bChct3neMxj7JCzxIrk_ucJvVcs5wZMGnuA/)
  - общая (потоки <<Мат Стат 20 Р>>, <<Мат Стат 21 Р>>) (will be added soon)
 
 ## Вопросы к экзамену
