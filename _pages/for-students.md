@@ -12,7 +12,7 @@ sidebar:
 
 # Курсы. Весна 2024
 
-To be added soon...
+- [Теория вероятностей](/for-students/spring2025/probabilityct/)
 
 # Полезные инструменты и ссылки
 
