@@ -73,3 +73,5 @@ $$\mathrm{E}\ S_*^2$$ и $$\mathrm{Var}\ S_*^2$$ (*упражнение може
     - Предположим, что существует теоретическая плотность $$p$$. Найти плотность для $$X_{(k)}$$
     (ответ предыдущего пункта записать через [regularized incomplete beta function](https://en.wikipedia.org/wiki/Beta_function#Incomplete_beta_function))
     - Найти совместную плотность для $$(X_{(1)}, \dots, X_{(n)})$$ (*половинка звездочки*)
+
+*Дополнительно:* Метод Монте-Карло (например, [тут](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%9C%D0%BE%D0%BD%D1%82%D0%B5-%D0%9A%D0%B0%D1%80%D0%BB%D0%BE) и [тут](https://en.wikipedia.org/wiki/Monte_Carlo_method), плюс можно посмотреть указанные там ссылки)
