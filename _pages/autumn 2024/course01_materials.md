@@ -77,7 +77,7 @@ $$\mathrm{E}\ S_*^2$$ и $$\mathrm{Var}\ S_*^2$$.
 (или хотя бы написать формулу, по которым это считается). Какими свойствами
 обладают найденные оценки?
 1. Shifted exponential
-2. $$\Gamma$$ (one parametr is unknown, both are unknown)
+2. $$\Gamma$$ (one parameter is unknown, both are unknown)
 3. Биномиальное
 4. Распределение Коши $$\mathrm{Cauchy}(x_0, 1)$$
 5. Распределение Парето $$\mathrm{Pareto}(x_0, \beta)$$
