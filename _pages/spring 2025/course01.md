@@ -32,7 +32,7 @@ sidebar:
 
 ## Материалы
 
-- [таблица](/assets/files/cdf_of_the_standard_normal_law.cdf)
+- [таблица](/assets/files/cdf_of_the_standard_normal_law.pdf)
 значений функции распределения стандартного нормального закона
 
 # Задачи
