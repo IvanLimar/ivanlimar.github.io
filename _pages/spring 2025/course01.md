@@ -30,6 +30,11 @@ sidebar:
 - *Коллоквиум* (will be added soon..)
 - *Экзамен* (will be added soon..)
 
+## Материалы
+
+- [таблица](/assets/files/cdf_of_the_standard_normal_law.cdf)
+значений функции распределения стандартного нормального закона
+
 # Задачи
 
 ## Набор № 1
