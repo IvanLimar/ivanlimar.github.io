@@ -27,13 +27,17 @@ sidebar:
 
 ## Вопросы по теоретическим мероприятиям
 
-- *Коллоквиум* (will be added soon..)
+- [Коллоквиум](https://drive.google.com/file/d/1ZfDjPgHkZVByqto4qfk4z6z0N6Cyz3V6/view)
 - *Экзамен* (will be added soon..)
 
 ## Материалы
 
 - [таблица](/assets/files/cdf_of_the_standard_normal_law.pdf)
 значений функции распределения стандартного нормального закона
+
+## Условие лабораторных
+
+- [первая](https://drive.google.com/file/d/1HXCkoKLcmpnl-hyzRtPx00jIQm3tzMGX/view)
 
 # Задачи
 
