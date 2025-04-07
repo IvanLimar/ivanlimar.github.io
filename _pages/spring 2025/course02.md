@@ -32,6 +32,7 @@ sidebar:
 
 - [Первая](https://drive.google.com/file/d/1h4qeFl8Jf3eB2zND2AQMBfcPzpAypAhT/view)
 - [Вторая](https://drive.google.com/file/d/1Mamgbw2EUIEkI3YUUqy3kmUd9FHtn-mH/view)
+- [Третья](https://drive.google.com/file/d/1T_mrjCfs7K-Alz-PAdiRYkDJWPp2CQ5y/view)
 
 # Задачи
 
@@ -175,3 +176,5 @@ $$S^2 = 784$$. За длительный срок работы установл�
 7. В десятичной записи числа $$\pi$$ среди первых 10002 знаков
 цифры $$0,\dots, 9$$ встречаются 968, 1026, 1021, 974, 1014, 1046, 1021, 970,
 948, 1014 раз соответственно. Можно ли эти цифры считать случайными?
+
+[Листинг](https://colab.research.google.com/drive/1JRDws33BwCBm8PdohuHSez5PSMstt3-P?usp=sharing). Плюс там есть еще примеры.
