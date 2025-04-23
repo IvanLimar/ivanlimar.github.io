@@ -33,6 +33,7 @@ sidebar:
 - [Первая](https://drive.google.com/file/d/1h4qeFl8Jf3eB2zND2AQMBfcPzpAypAhT/view)
 - [Вторая](https://drive.google.com/file/d/1Mamgbw2EUIEkI3YUUqy3kmUd9FHtn-mH/view)
 - [Третья](https://drive.google.com/file/d/1T_mrjCfs7K-Alz-PAdiRYkDJWPp2CQ5y/view)
+- [Четвёртая](https://drive.google.com/file/d/1cgM_09FzjZTHUiIra3LnFFVILtIhPlDS/view)
 
 # Задачи
 
