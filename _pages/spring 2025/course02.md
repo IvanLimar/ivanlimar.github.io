@@ -26,7 +26,7 @@ sidebar:
 
 ## Вопросы к экзамену
 
-- *Список вопросов к экзамену* (will be added soon..)
+- [Список вопросов к экзамену](/assets/files/2025_spring_statistics_exam.pdf)
 
 # Условия РГР
 
