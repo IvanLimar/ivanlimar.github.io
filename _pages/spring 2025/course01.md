@@ -28,7 +28,7 @@ sidebar:
 ## Вопросы по теоретическим мероприятиям
 
 - [Коллоквиум](https://drive.google.com/file/d/1ZfDjPgHkZVByqto4qfk4z6z0N6Cyz3V6/view)
-- *Экзамен* (will be added soon..)
+- [Экзамен](https://drive.google.com/file/d/1bOdjZ7nHQsxCBMNs6OL5eGRgK6YVRaCa/view)
 
 ## Материалы
 
