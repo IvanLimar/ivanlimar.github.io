@@ -81,12 +81,6 @@ $$Exam$$ -- оценка за экзамен (до 20).
 - Кобзарь. Прикладная математическая статистика. Для инженеров и научных работников (достаточно подробный справочник по статистическим методам)
 - Лемешко и др. Статистический анализ данных, моделирование и исследование статистических закономерностей , компьютерный подход (тут есть про оптимальную группировку в критериях типа хи-квадрат)
 
-# Таблицы с результатами
-
- - [группы 36, 37](https://docs.google.com/spreadsheets/d/1OKkgEfibnvNEqB1BkkB5zg3k4Fa4WcggghEEAOVO1d8/)
- - [группы 38, 39](https://docs.google.com/spreadsheets/d/1hKhZKA2OnQff5xmhlI13lNWxUA3WiQDVgAuEWVQ3-J8/)
- - [общая](https://docs.google.com/spreadsheets/d/1nFNAe7MrNDOjs7xGUOc-VQdUf-TNZVK0Kuk_OgmcVz4/)
-
 # Экзамен
 
 [Список вопросов](https://drive.google.com/file/d/1r58G0p8_Qnx2mnQmmIMO5SgP71zTGXVq/view?usp=sharing)
