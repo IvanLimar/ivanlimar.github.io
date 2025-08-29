@@ -32,11 +32,6 @@ sidebar:
 закон больших чисел и центральную предельную теорему, которые играют существенную роль в приложениях теории вероятностей,
 в частности, в математической статистикой.
 
-## Таблицы с результатами
-
-- [потоки 25.1, 26.1](https://docs.google.com/spreadsheets/d/1nx04xEJQarko6AjTFItzmlm73sFACDEUtf60RRBUtMY/edit?usp=sharing)
-- [общая](https://docs.google.com/spreadsheets/d/19WC0fQf7ZMmEFofXInb6ea0isVFqRzSqd4o1u1rgKto)
-
 ## Оценивавшие
 
 $$Score = Problems + Labs + Test + Exam,$$
