@@ -10,12 +10,7 @@ sidebar:
 
 Здесь размещаю материалы для студентов
 
-# Курсы. Осень 2025
-
-*To be announced*
-
 # Полезные инструменты и ссылки
 
-- [Jupyter Notebook](/for-students/jupyter-notebook) 
-- [LaTeX](/for-students/latex)
-- [Материалы предыдущих семестров](/for-students/archive)
+- [Jupyter Notebook](/for-students/jupyter-notebook/) 
+- [LaTeX](/for-students/latex/)
