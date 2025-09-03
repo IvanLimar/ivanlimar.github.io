@@ -6,6 +6,7 @@ toc_sticky: true
 permalink: /for-students/autumn2024/probabn/
 sidebar:
   nav: "docs"
+classes: wide
 ---
 
 <script type="text/javascript" async
