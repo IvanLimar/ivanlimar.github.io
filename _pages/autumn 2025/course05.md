@@ -6,6 +6,7 @@ toc_sticky: true
 permalink: /for-students/autumn2025/levyfinmaga/
 sidebar:
   nav: "docs"
+classes: wide
 ---
 
 <script type="text/javascript" async

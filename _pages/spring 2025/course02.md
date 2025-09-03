@@ -6,6 +6,7 @@ toc_sticky: true
 permalink: /for-students/spring2025/mathstat/
 sidebar:
   nav: "docs"
+classes: wide
 ---
 
 <script type="text/javascript" async
