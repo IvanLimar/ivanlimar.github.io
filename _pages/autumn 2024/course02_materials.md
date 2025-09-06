@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 toc: true
 toc_sticky: true
 permalink: /for-students/autumn2024/probab25/materials/
