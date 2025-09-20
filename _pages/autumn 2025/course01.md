@@ -96,3 +96,4 @@ $$\Gamma(s, 1)$$ соответственно, причём предельные
 4. Laplace (*loc* is unknown, *scale* is given)
 5. Shifted exponential
 6. Распределение Коши
+5. Распределение Парето $$\mathrm{Pareto}(x_0, \beta)$$
