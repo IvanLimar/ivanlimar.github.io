@@ -23,7 +23,7 @@ classes: wide
 
 # Условия РГР
 
-*To be announced*
+ - [Первая](https://drive.google.com/file/d/1IiScoOmvWfhmTDP3c5BTa4jrTh36cx8N/view)
 
 # Экзамен
 
