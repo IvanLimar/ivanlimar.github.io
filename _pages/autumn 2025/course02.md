@@ -23,7 +23,7 @@ classes: wide
 
 # Условия РГР/Лаб.
 
-*To be announced*
+- [Первая](https://drive.google.com/file/d/197ncu42LdRQRklEaQ5u8xdNGnA49pjQN/view)
 
 # Экзамен
 
