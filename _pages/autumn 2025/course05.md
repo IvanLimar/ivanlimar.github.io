@@ -62,3 +62,11 @@ per week. For any period of time, the number of envelopes and the numbers of cla
 the envelopes are independent. The numbers of claims in the envelopes have the following
 distribution: one with probability 0.2, two -- 0.25, three -- 0.4, four -- 0.15. Using the normal approximation, calculate the 90th percentile of the number of claims
 received in 13 weeks.
+
+# Набор 2
+
+Решить стохастические дифференциальные уравнения:
+
+1. $$d X(t) = \mu X(t)dt + \sigma X(t) d W(t)$$, hint: $$F(t, x) = \ln x$$
+1. $$d X(t) = -\mu X(t)dt + \sigma d W(t)$$, hint: $$F(t, x) = e^{\mu t} x$$
+1. $$d X(t) = \frac{\beta - X(t)}{T - t}dt + d W(t)$$, hint: $$F(t, x) = \frac{\beta - x}{T - t}$$
