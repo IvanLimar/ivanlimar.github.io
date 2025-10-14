@@ -25,9 +25,9 @@ classes: wide
 
  - [Первая](https://drive.google.com/file/d/1IiScoOmvWfhmTDP3c5BTa4jrTh36cx8N/view)
 
-# Экзамен
+# Теория
 
-*To be announced* 
+ - [Список для первой теоретической работы](https://drive.google.com/file/d/1TWwM10mHw892V1zfGeOOppfGnWLT15c8/view)
 
 # Задачи
 
