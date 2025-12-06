@@ -29,7 +29,8 @@ classes: wide
 
 # Теория
 
- - [Список для первой теоретической работы](https://drive.google.com/file/d/1TWwM10mHw892V1zfGeOOppfGnWLT15c8/view)
+ - [Часть 1](https://drive.google.com/file/d/1TWwM10mHw892V1zfGeOOppfGnWLT15c8/view)
+ - [Часть 2](https://drive.google.com/file/d/1M7SabDnvsXTRrWbwC7vG2QYAACdNnwe5/view)
 
 # Задачи
 
