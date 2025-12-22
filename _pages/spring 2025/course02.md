@@ -20,10 +20,6 @@ classes: wide
 ## Оценивание
 
 Оценка $$All = 4\cdot lab + 2 \cdot actv + theory$$, где $$lab \leqslant 15$$ -- оценка за расчётно-графическую работу, $$actv \leqslant 10$$ -- оценка за *активности* в классе, $$theory \leqslant 20$$ -- за экзамен
-## Таблицы с результатами
-
- - [практические потоки](https://docs.google.com/spreadsheets/d/1wgZRE6u5bChct3neMxj7JCzxIrk_ucJvVcs5wZMGnuA/)
- - [общая](https://docs.google.com/spreadsheets/d/1nADIgSt-beEz9P__DrFK29Eiyh_MpkhTxB0tXl0QuSw/edit?usp=sharing) (потоки <<Мат Стат 20 Р>>, <<Мат Стат 21 Р>>)
 
 ## Вопросы к экзамену
 
