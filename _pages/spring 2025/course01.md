@@ -17,15 +17,6 @@ classes: wide
 
 Здесь представлена основная информация о курсе, чуть более подробно, в том числе аннотация, литература, большие детали системы оценивания можно посмотреть [syllabus](/assets/files/2025_spring_probability_syllabus.pdf).
 
-## Оценивание
-
-Оценка $$All = practice + theory$$, где $$practice \leqslant 70 + \Delta$$ -- оценка за мероприятия на практиках, $$theory \leqslant 30$$ -- за теорию
-## Таблицы с результатами
-
- - [группы 36, 37](https://docs.google.com/spreadsheets/d/1K_FFZCRMV_cNLG5GH25MKEpNFvGJS7BvIGjGi24ZNQs/)
- - [группы 38, 39](https://docs.google.com/spreadsheets/d/1bg50KuMsZxTySAaN1aOTxDfnEqIpxlqx98csVKEj6Io/)
- - [общая](https://docs.google.com/spreadsheets/d/1rKS3p5APNGbFDY3irfr3bSbHIJCPpObrrwpPc8JDihA/)
-
 ## Вопросы по теоретическим мероприятиям
 
 - [Коллоквиум](https://drive.google.com/file/d/1ZfDjPgHkZVByqto4qfk4z6z0N6Cyz3V6/view)
