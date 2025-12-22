@@ -19,7 +19,7 @@ classes: wide
 
 # Таблицы с результатами
 
- - 36, 37 (*to be announced*)
+ - [36, 37](https://docs.google.com/spreadsheets/d/1n-Tnz8StPOlAOEH2naTv5PwxJHA53BnaTwson5FNi4s/)
  - [38, 39](https://docs.google.com/spreadsheets/d/1rM9ZaldF5G3v84rkITjAoako2GSYAzRtDSIfvaWTHUM/edit?usp=sharing)
  - общая (*to be announced*)
 # Условия РГР/Лаб.
@@ -32,7 +32,7 @@ classes: wide
 
 # Экзамен
 
-*To be announced* 
+ - [Вопросы](https://drive.google.com/file/d/13oIEP7gEaOGVH2n0dWdJ_aZ84MAJ2_Ea/view)
 
 # Задачи
 
