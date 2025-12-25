@@ -28,7 +28,7 @@ classes: wide
 
 # Экзамен
 
-*To be announced* 
+ - [Вопросы к экзамену](https://drive.google.com/file/d/14NUninadACr1CRgxmEaVxdddxZ_7NsLj/view)
 
 # Задачи
 
