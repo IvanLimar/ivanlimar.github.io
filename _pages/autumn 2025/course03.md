@@ -23,7 +23,7 @@ classes: wide
 
 # Зачёт
 
-*To be announced* 
+- [список вопросов](https://drive.google.com/file/d/1tnVyhngC9uj621oxOvWvofw7WEqycNaW/view?usp=sharing)
 
 # Задачи
 
