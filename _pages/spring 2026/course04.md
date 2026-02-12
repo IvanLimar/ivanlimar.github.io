@@ -15,7 +15,7 @@ classes: wide
 
 # О курсе
 
-Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в syllabus (*To be announced*).
+Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](https://drive.google.com/file/d/1Xx0GokuyTcOxfqGf4-FThZEpaXxWwtnn/view?usp=sharing).
 
 # Таблицы с результатами
 
