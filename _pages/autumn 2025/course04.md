@@ -17,11 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](/assets/files/2025_autumn_probandstat_eai_syllabus.pdf).
 
-# Таблицы с результатами
-
- - [J3210](https://docs.google.com/spreadsheets/d/1ReEJojjOfKR_N8L59MRCua-mMrdsoonZqHLIhrMN49A/edit?usp=sharing)
- - [Общая](https://docs.google.com/spreadsheets/d/1MhZSmXjBBSYiTiDpmXR_FYd6rPE_fBgj-ofm7FGmrgQ/)
-
 # Условия РГР
 
  - [Первая](https://drive.google.com/file/d/1IiScoOmvWfhmTDP3c5BTa4jrTh36cx8N/view)
