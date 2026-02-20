@@ -19,11 +19,14 @@ classes: wide
 
 # Таблицы с результатами
 
-* To be announced*
+ - [J3115](https://docs.google.com/spreadsheets/d/1gcbWpmwj8dQbJxObnroh8rE4uYO9iYwuZcueYb1yWZM)
+ - J3116
+ - J3117
+ - Общая
 
 # Условия РГР/Лаб/ДЗ.
 
-*To be announced*
+ - [Первая](https://drive.google.com/file/d/1OCbeX2dyRzQWcP4vR96RbKg-lbKWQFyd/view)
 
 # Экзамен
 
