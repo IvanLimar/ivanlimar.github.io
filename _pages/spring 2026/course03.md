@@ -19,11 +19,11 @@ classes: wide
 
 # Таблицы с результатами
 
-* To be announced*
+ - [таблица](https://docs.google.com/spreadsheets/d/12k4NgT3mo9kFLEy-oIuo9OwT-65qrYimnrdXiIYQMVQ/)
 
 # Условия РГР/Лаб.
 
-*To be announced*
+ - [первая](https://drive.google.com/file/d/1h2WB3vxWdIF71QB7Nf_TJv6_8dyNLAVS/view)
 
 # Экзамен
 
@@ -31,4 +31,4 @@ classes: wide
 
 # Задачи
 
-* To be announced*
+*To be announced*
