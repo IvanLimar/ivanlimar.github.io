@@ -17,14 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](/assets/files/2025_autumn_levyandfincace_syllabus.pdf).
 
-# Таблицы с результатами
-
- - [Таблица](https://docs.google.com/spreadsheets/d/1N_A7CWGnibztw2wLtMZh0xZueY5lxIvuVI43B1VKekE/)
-
-# Экзамен
-
-*To be announced* 
-
 # Задачи
 
 ## Набор 1
