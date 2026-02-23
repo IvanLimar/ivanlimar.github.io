@@ -17,10 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](/assets/files/2025_autumn_stohasticproces_ct_syllabus.pdf).
 
-# Таблица с результатами
-
-- [таблица](https://docs.google.com/spreadsheets/d/1JVmOmdup4iRp7yM1gVB3cmMWM4gbGoYVf4KXHPL8rAQ/edit?gid=0#gid=0)
-
 # Зачёт
 
 - [список вопросов](https://drive.google.com/file/d/1tnVyhngC9uj621oxOvWvofw7WEqycNaW/view?usp=sharing)

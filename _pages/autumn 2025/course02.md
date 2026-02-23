@@ -17,10 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](/assets/files/2025_autumn_probability_ai360_syllabus.pdf).
 
-# Таблица с результатами
-
-- Сама [таблица](https://docs.google.com/spreadsheets/d/1sSJRatS4BPTErL_wV0PxORieVEdNqRRRnzKu4o4nJL4/)
-
 # Условия РГР/Лаб.
 
 - [Первая](https://drive.google.com/file/d/197ncu42LdRQRklEaQ5u8xdNGnA49pjQN/view)

@@ -17,11 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](/assets/files/2025_autumn_statistics_ct_syllabus.pdf).
 
-# Таблицы с результатами
-
- - [36, 37](https://docs.google.com/spreadsheets/d/1n-Tnz8StPOlAOEH2naTv5PwxJHA53BnaTwson5FNi4s/)
- - [38, 39](https://docs.google.com/spreadsheets/d/1rM9ZaldF5G3v84rkITjAoako2GSYAzRtDSIfvaWTHUM/)
- - [общая](https://docs.google.com/spreadsheets/d/1Bv9uq-nKRkmRbjVNnpZSW-2X4n5JGwcj89OZPFTMhAk/)
 # Условия РГР/Лаб.
 
  - [Первая](https://drive.google.com/file/d/14sS7JnrZTdiLChUyiPAkZvHu8jwwdtE4/)
