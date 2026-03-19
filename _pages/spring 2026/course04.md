@@ -27,6 +27,7 @@ classes: wide
 # Условия РГР/Лаб/ДЗ.
 
  - [Первая](https://drive.google.com/file/d/1OCbeX2dyRzQWcP4vR96RbKg-lbKWQFyd/view)
+ - [Вторая](https://drive.google.com/file/d/1I7hxOlLglmJv0cSKAzUUoJr8GgF5VG7n/view)
 
 # Экзамен
 
