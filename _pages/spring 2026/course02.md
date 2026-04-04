@@ -27,6 +27,7 @@ classes: wide
  - [Первая](https://drive.google.com/file/d/1wG8zMO6GuTSTsSqp7nxJ-ctkIpfO0Phk/view)
  - [Вторая](https://drive.google.com/file/d/1-rDXaxlOmvL4RSZUhQMeMoZUg1U5ugI6/view)
  - [Третья](https://drive.google.com/file/d/17LX53bn7rEDPXbKUc4Ac9AzKk76fNmE-/view)
+ - [Четвёртая](https://drive.google.com/file/d/1Rj2pwPkoB5jBmupwAQXBuvedYWLHtY2T/view)
 
 # Экзамен
 
