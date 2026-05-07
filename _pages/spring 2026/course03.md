@@ -25,6 +25,8 @@ classes: wide
 
  - [первая](https://drive.google.com/file/d/1h2WB3vxWdIF71QB7Nf_TJv6_8dyNLAVS/view)
  - [вторая](https://drive.google.com/file/d/1EFCjpEN6TOGUJqZmvxXVLz2zOquoNRpt/view)
+ - [третья](https://drive.google.com/file/d/1e9Sv0O8yl6BBpLqV12BPNxMuj-jtIr92/view)
+ - [четвёртая](https://drive.google.com/file/d/1vKXfx7FENtV8wr95yir2KyKPO_-xdxfi/view)
 
 # Экзамен
 
@@ -32,7 +34,7 @@ classes: wide
 
 # Задачи
 
-# Набор 1: про условные распределения и связанные с ним вещи
+## Набор 1: про условные распределения и связанные с ним вещи
 
 В этих задачах считать, что функция потерь -- квадратическая.
 
@@ -48,3 +50,7 @@ classes: wide
 5.  Пусть дана выборка из распределения Пуассона, причём
 параметр $$\lambda$$ принимает значения 1 и 2 с вероятностями 1/3 и 2/3
 соответственно. Построить байесовскую оценку параметра $$\lambda$$. Постройте credible interval (equal tail and highest dencity)
+
+## Набор 2: про марковские процессы
+
+[Файл с задачами](https://drive.google.com/file/d/1kgSioK2WSmZ_W4YKM46DzIeeLeBAaUMk/view)
