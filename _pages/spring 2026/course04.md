@@ -28,6 +28,8 @@ classes: wide
 
  - [Первая](https://drive.google.com/file/d/1OCbeX2dyRzQWcP4vR96RbKg-lbKWQFyd/view)
  - [Вторая](https://drive.google.com/file/d/1I7hxOlLglmJv0cSKAzUUoJr8GgF5VG7n/view)
+ - [Третья](https://drive.google.com/file/d/1yqdCrggBbxnncA7sWFTmIjbPSNO8dpMj/view)
+ - [Четвёртая](https://drive.google.com/file/d/1TG27TEV0GHLeM3PD9p6q_iO_uZgTHp9H/view)
 
 # Экзамен
 
@@ -234,3 +236,7 @@ $$\mathrm{P}(X + Y = k)$$. В частности, решить задачу, е�
 2. Случайная величина $$X$$ принимает значения 1, 2, 3 с вероятностями $$p$$, $$q$$, $$1 - p - q$$. С помощью метода моментов найдите оценки параметров $$p$$ и $$q$$. Найдите для каждой оценки смещение и дисперсию.
 3. Задачу 1 решите с помощью метода максимального правдоподобия.
 4. Задачу 2 решите с помощью метода максимального правдоподобия.
+
+## Набор 8
+
+[Задачи](https://drive.google.com/file/d/1VVelRSO_m-hKYifk4woS3XEmVEVBAaw0/view) на цепи Маркова (будет пополняться)
