@@ -19,7 +19,6 @@ classes: wide
 
 # Таблицы с результатами
 
- - 41 (*to be announced*)
  - [общая + 42](https://docs.google.com/spreadsheets/d/1TfUvJsiAK2kgKjcAhg7G416ekGQ3OUux5otFAfoGGFo/)
  
 # Условия РГР/Лаб.
@@ -32,7 +31,7 @@ classes: wide
 
 # Экзамен
 
-*To be announced*
+ - [Вопросы к экзамену](https://drive.google.com/file/d/1ck4wqSqavgCQJMmHRgo0FZf0cW7VA8Q5/view)
 
 # Задачи
 
