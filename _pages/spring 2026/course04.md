@@ -20,9 +20,9 @@ classes: wide
 # Таблицы с результатами
 
  - [J3115](https://docs.google.com/spreadsheets/d/1gcbWpmwj8dQbJxObnroh8rE4uYO9iYwuZcueYb1yWZM)
- - J3116
+ - [J3116](https://docs.google.com/spreadsheets/d/18KrBHUInQ0ZPWz-X0P5A5jBoKAxnrOIfN2p4WY6MzZY/)
  - [J3117](https://docs.google.com/spreadsheets/d/193_VnwDbUsPxvu5a7RqFX1Wogy1OOkSwu3IyBtDb2gI/)
- - Общая
+ - [Общая](https://docs.google.com/spreadsheets/d/1RF_j3g27fckAeBE9DMbKyJGu_yynrYoYLChLvxZiOfY/)
 
 # Условия РГР/Лаб/ДЗ.
 
@@ -34,6 +34,7 @@ classes: wide
 # Экзамен
 
  - [Часть 1 (коллоквиум)](https://docs.google.com/document/d/17ND6HByAbk_G5H3YKHNi8svmgcPB8MCmrcDeEE5Cizo/)
+ - [Часть 2 (экзамен)](https://drive.google.com/file/d/1TCyzSE-6kwYtyWGYcdOhytjJj3KXHNB-/view/)
 
 # Задачи
 
