@@ -29,6 +29,7 @@ classes: wide
 # Вопросы по теории
 
  - [Часть 1 (коллоквиум)](https://drive.google.com/file/d/14x3T2PwFCqyHZlRdsvJaYR-9ylFTFMRE/view)
+ - [Часть 2 (экзамен)](https://drive.google.com/file/d/1iO9Q4mwMbr4IZgoGS4SqNEjdSKSTK6Yd/view)
 
 # Задачи
 
