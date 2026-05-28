@@ -30,7 +30,7 @@ classes: wide
 
 # Экзамен
 
-*To be announced*
+ - [Программа](https://drive.google.com/file/d/1zWhT_NP7bDjLQEH2eXuNa_dADdMt4xuQ/view)
 
 # Задачи
 
