@@ -17,13 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](https://drive.google.com/file/d/1Xx0GokuyTcOxfqGf4-FThZEpaXxWwtnn/view?usp=sharing).
 
-# Таблицы с результатами
-
- - [J3115](https://docs.google.com/spreadsheets/d/1gcbWpmwj8dQbJxObnroh8rE4uYO9iYwuZcueYb1yWZM)
- - [J3116](https://docs.google.com/spreadsheets/d/18KrBHUInQ0ZPWz-X0P5A5jBoKAxnrOIfN2p4WY6MzZY/)
- - [J3117](https://docs.google.com/spreadsheets/d/193_VnwDbUsPxvu5a7RqFX1Wogy1OOkSwu3IyBtDb2gI/)
- - [Общая](https://docs.google.com/spreadsheets/d/1RF_j3g27fckAeBE9DMbKyJGu_yynrYoYLChLvxZiOfY/)
-
 # Условия РГР/Лаб/ДЗ.
 
  - [Первая](https://drive.google.com/file/d/1OCbeX2dyRzQWcP4vR96RbKg-lbKWQFyd/view)
