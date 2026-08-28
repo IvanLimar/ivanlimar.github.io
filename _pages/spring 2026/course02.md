@@ -16,10 +16,6 @@ classes: wide
 # О курсе
 
 Более-менее подробную аннотацию, в том числе и литературу, можно посмотреть в [syllabus](https://drive.google.com/file/d/14X0fNGG11Y72efamKjg6IJw9TdvDU1d8/view).
-
-# Таблицы с результатами
-
- - [общая + 42](https://docs.google.com/spreadsheets/d/1TfUvJsiAK2kgKjcAhg7G416ekGQ3OUux5otFAfoGGFo/)
  
 # Условия РГР/Лаб.
 
