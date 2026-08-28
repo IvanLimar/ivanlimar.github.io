@@ -17,10 +17,6 @@ classes: wide
 
 Более-менее подробную аннотацию, в том числе в общих чертах про систему оценивания и литературу, можно посмотреть в [syllabus](https://drive.google.com/file/d/1maVyTqpBzzI3ndwzsNv9aOrcatJ4M2ij/view).
 
-# Таблица с результатами
-
- - Сама [таблица](https://docs.google.com/spreadsheets/d/19fNWx8gQoAP5tdPUj-Li3-ds_n617EMoNkalxN9E-as/)
-
 # Условия лабораторных
 
  - [Первая](https://drive.google.com/file/d/1DbUCxiGF8SyTSpPz8YsykCgHO4bCX6RH/view)
