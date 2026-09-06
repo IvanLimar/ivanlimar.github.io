@@ -39,3 +39,187 @@ $$S_0 = 0$$, $$S_n = (\xi_1 + \ldots + \xi_n)$$. Положим $$X_t = \sup\{n 
 5. Найдите функции мат. ожидания, дисперсии и ковариаций для процесса Леви.
 6. Рассмотрим случайный процесс $$Y(t) = \xi \cos(\omega t) + \eta \sin(\omega t)$$, где $$\xi$$, $$\eta$$ – независимые гауссовские величины с нулевым математическим ожиданием и дисперсией $$\sigma^2$$. Найдите функции мат. ожидания и ковариаций. Является ли данный процесс стационарным в узком смысле и процессом с независимыми приращениями? Является ли процесс гауссовским?
 7. Пусть $$X(t) = W(t) + Ut$$, где $$W(t)$$ – винеровский процесс, $$U$$ -- независимая от $$W(t)$$ случайная величина. Найдите функции мат. ожидания и ковариаций. Являются ли приращения независимым? Является ли процесс $$X(t)$$ гауссовским, если $$U$$ -- гауссовская случайная величина? Является ли $$X(t)$$ процессом Леви?
+
+## Набор 2
+
+1. Customers arrive at a bank according with a Poisson process with a rate 20
+customers per minute. Suppose that two customer arrived during the first hour. What is the
+probability that at least one arrived during the first 20 minutes?
+2. Cars cross a certain point in a highway in accordance with a Poisson process
+with rate equals 3 cars per minute. If Deb blindly runs across the highway, then what is the
+probability that she sill be injured if the amount of time it takes her to cross the road is $$s$$
+seconds? Do it for $$s = 2, 5, 10, 20$$.
+3. Two individuals, A and B, both require kidney transplants. If A does not
+receive a new kidney, then A will die after an exponential time with mean $$\lambda_a$$ and B will die
+after an exponential time with mean  $$\lambda_b$$. New kidneys arrive in accordance with a Poisson
+process having rate  $$\lambda$$. It has been decided that the first kidney will to A or to B if B is alive
+and A is not at the time and the next one to B (if is still living).
+    - What is the probability that A obtains a new kidney?
+    - What is the probability that B obtains a new kidney?
+4. A certain theory supposes that mistakes in cell division occur according to a
+Poisson process with rate 2.5 per year., and that an individual dies when 196 such mistakes
+have occurred. Assuming this theory find
+    - the mean lifetime of an individual,
+    - the variance of the lifetime of an individuals.
+    - the probability that an individual dies before age 67.2
+    - the probability that an individual reaches age 90.
+    - the probability that an individual reaches age 100.
+5. For a tyrannosaur with 10,000 calories stored:
+The tyrannosaur uses calories uniformly at a rate of 10,000 per day. If his stored calories
+reach 0, he dies. The tyrannosaur eats scientists (10,000 calories each) at a Poisson rate of 1 per day.
+The tyrannosaur eats only scientists. The tyrannosaur can store calories without limit until needed.
+Calculate the expected calories eaten in the next 2.5 days.
+6. The claims department of an insurance company
+receives envelopes with claims for insurance coverage at a Poisson rate of $$\lambda = 50$$ envelopes
+per week. For any period of time, the number of envelopes and the numbers of claims in
+the envelopes are independent. The numbers of claims in the envelopes have the following
+distribution: one with probability 0.2, two -- 0.25, three -- 0.4, four -- 0.15. Using the normal approximation, calculate the 90th percentile of the number of claims
+received in 13 weeks.
+7. Calls arrive at a call center according to a Poisson process with rate $$20$$ per hour. Each call is independently classified as:
+- emergency with probability $$0.1$$;
+- technical support with probability $$0.6$$;
+- billing with probability $$0.3$$.
+
+    Let $$T_E$$ be the time of the first emergency call and $$T_B$$ the time of the first billing call.
+
+    Find:
+
+    - $$P(T_E<T_B)$$;
+    - $$P(T_E<1<T_B)$$;
+    - $$P(T_E+T_B<1)$$;
+    - $$E[\min(T_E,T_B)]$$;
+    - $$P(T_E<T_B\mid N(1)=5)$$.
+8. Customers arrive according to a nonhomogeneous Poisson process with intensity
+
+    $$
+    \lambda(t)=2+t,\qquad 0\leq t\leq 4.
+    $$
+
+    Suppose that exactly $$10$$ customers arrive during the first $$4$$ hours.
+
+    Find:
+
+    1. the conditional probability that exactly $$4$$ customers arrived during the first hour;
+
+    2. the conditional expected number of customers arriving during the first $$2$$ hours;
+
+    3. the probability that the third customer arrived before $$t=1$$;
+
+    4. the conditional distribution of the arrival time of a randomly selected customer.
+
+9. The number of accidents on a highway follows a nonhomogeneous Poisson process with intensity
+
+    $$
+    \lambda(t)=\frac{6t}{1+t^2},
+    $$
+
+    where $$t$$ is measured in hours.
+
+    Find:
+
+    1. the probability that no accidents occur during the first $$3$$ hours;
+
+    2. the probability that exactly $$2$$ accidents occur between hours $$1$$ and $$4$$;
+
+    3. the expected time of the first accident, conditional on at least one accident occurring before $$t=4$$;
+
+    4. the probability that the second accident occurs before $$t=2$$.
+
+10. Claims arrive according to a Poisson process with rate $$\lambda=4$$ per day. Each claim independently has size
+
+    $$
+    X=
+    \begin{cases}
+    1, & p=0.5,\\
+    3, & p=0.3,\\
+    10, & p=0.2.
+    \end{cases}
+    $$
+
+    Let $$S$$ be the total claim amount during one day.
+
+    Find
+
+    $$
+    P(S>10\mid N(1)\geq 2).
+    $$
+    
+    Then find
+    
+    $$
+    E[N(1)\mid S>10].
+    $$
+
+
+11. Scientists arrive according to a Poisson process with rate $$2$$ per day. Each scientist independently carries a random amount of food:
+
+    $$
+    X=
+    \begin{cases}
+    5, & p=0.4,\\
+    10, & p=0.4,\\
+    20, & p=0.2.
+    \end{cases}
+    $$
+
+    A dinosaur initially has $$15$$ units of food and consumes food continuously at a rate of $$10$$ units per day. Food can be stored without limit.
+
+    The dinosaur dies when its food level reaches zero.
+
+    Let $$T$$ be its lifetime.
+
+    Find:
+
+    1. $$P(T>2)$$;
+
+    2. $$P(T>3)$$;
+
+    3. $$E[T]$$;
+
+    4. the probability that the dinosaur eats at least $$3$$ scientists before dying;
+
+    5. $$P(T>3\mid N(3)=4)$$.
+
+
+
+12. The number of customers arriving at a supermarket follows a nonhomogeneous Poisson process with intensity
+
+    $$
+    \lambda(t)=20+10\sin\left(\frac{\pi t}{12}\right),
+    \qquad 0\leq t\leq12.
+    $$
+
+    Each customer spends an independent random amount $$X$$, where
+
+    $$
+    P(X=0)=0.1,\qquad
+    P(X=5)=0.4,\qquad
+    P(X=10)=0.3,\qquad
+    P(X=20)=0.2.
+    $$
+
+    Let
+
+    $$
+    S(t)=\sum_{i=1}^{N(t)}X_i
+    $$
+
+    be the total revenue by time $$t$$.
+
+    Find:
+
+    1. $$E[N(12)]$$;
+
+    2. $$E[S(12)]$$;
+
+    3. $$\operatorname{Var}(S(12))$$;
+
+    4. $$P(N(6)>100)$$;
+
+    5. using a normal approximation, estimate
+
+    $$
+    P(S(12)>1500);
+    $$
+
+    6. find the approximate $$95$$th percentile of $$S(12)$$.
