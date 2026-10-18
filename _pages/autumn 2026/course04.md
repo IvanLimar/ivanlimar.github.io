@@ -38,6 +38,7 @@ classes: wide
 # Лаб
 
  - [Первая](https://drive.google.com/file/d/1e64S0NGBRlZKkBT96jf4qaECbOwlfnK7/view)
+ - [Вторая](https://drive.google.com/file/d/128RP44LeVb3dWc8Eercki_yUfoKH2VWa/view)
 
 # Задачи
 
