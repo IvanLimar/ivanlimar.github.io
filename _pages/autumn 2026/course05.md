@@ -55,6 +55,8 @@ classes: wide
 # Лабораторные
 
  - [Первая](https://drive.google.com/file/d/1-sBB99oC8ZZ8_8fbXT5kTwHG4Fu802b4/view)
+ - [Вторая](https://drive.google.com/file/d/1RYcacQNAXKUe4p671BgYvZNv9BMp9Bq_/view)
+ - [Третья](https://drive.google.com/file/d/1D8IEgIWjnUX3MgTM4G-tMRgyloxhpRR0/view)
 
 # Задачи
 
