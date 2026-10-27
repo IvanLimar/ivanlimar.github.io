@@ -292,12 +292,12 @@ $$i$$-ю ячейку равняется $$p_i = 1/N$$.
 $$\mu_1$$, $$\gamma_1$$ и $$\mu_2$$, $$\gamma_2$$ соответственно.
 Найти $$p_{X_1 + X_2}$$ -- плотность суммы $$X_1 + X_2$$
 
-# Набор 7
+## Набор 7
 
 Ковариацией называется величина $$\mathrm{Cov}(X, Y) = \mathrm{E}(X - \mathrm{E} X)(Y - \mathrm{E}Y)$$, а
 $$\rho = \frac{\mathrm{Cov}(X, Y)}{\sqrt{\mathrm{Var}X \cdot \mathrm{Var} Y}}$$ – коэффициент корреляции
 
-1.$$U \sim \mathrm{U}[0, 2\pi]$$,
+1. $$U \sim \mathrm{U}[0, 2\pi]$$,
 $$X = \sin U$$, $$Y = \cos U$$. Найти $$\mathrm{E} X$$,
 $$\mathrm{E} Y$$, $$\mathrm{Var} X$$, $$\mathrm{Var} Y$$,
 $$\mathrm{Cov}(X, Y)$$. Являются ли $$X$$, $$Y$$
