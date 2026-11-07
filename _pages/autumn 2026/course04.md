@@ -39,6 +39,7 @@ classes: wide
 
  - [Первая](https://drive.google.com/file/d/1e64S0NGBRlZKkBT96jf4qaECbOwlfnK7/view)
  - [Вторая](https://drive.google.com/file/d/128RP44LeVb3dWc8Eercki_yUfoKH2VWa/view)
+ - [Третья](https://drive.google.com/file/d/1f6GEMNev6hNcLMe1AVe4ZnXVHJ7rcNcA/view)
 
 # Задачи
 
