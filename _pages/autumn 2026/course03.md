@@ -38,6 +38,7 @@ classes: wide
 # Условия РГР
 
  - [Первая](https://drive.google.com/file/d/12JfG9FzLLnLmzLZwilJx3mgMHetH03Dk/view?usp=drive_open)
+ - [Вторая](https://drive.google.com/file/d/1IBI_YzTQuNCAXtCmFoNxNoFyuSIT1uVW/view)
 
 # Теория
 
